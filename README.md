@@ -1,17 +1,32 @@
-<h1>Password Generator</h1>
+# Password Generator
 
-<h2>Getting Started</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3.6%20%7C%203.7-blue" alt="Python version" />
+</p>
 
-<p>To use the password generator, simply run the script in a Python environment. The script will prompt the user to specify the length of the desired password and the character types to include (lowercase letters, uppercase letters, symbols, and/or numbers).</p>
+## About
 
-<h2>Dependencies</h2>
+This is a Python script that generates a random password based on user input. It allows the user to specify the length of the password, as well as which types of characters to include (lowercase letters, uppercase letters, numbers, and symbols).
 
-<p>This script requires Python 3.x to run.</p>
+## Requirements
 
-<h2>How It Works</h2>
+- Python 3.6 or later
 
-<p>The script uses the `random` and `string` modules to randomly select characters from the available options and join them together to form the password. The user can specify which character types to include by responding to prompts with 'y' or 'n'.</p>
+## Usage
 
-<p>If the user inputs an invalid response, the script will prompt the user to input a valid response.</p>
+To use this script, follow these steps:
 
-<p>Once the password is generated, it will be printed to the console. The user can then press enter to exit the script.</p>
+1. Clone or download this repository to your computer.
+
+2. Open a terminal window and navigate to the directory where you saved the repository.
+
+3. Run the script by typing `python password_generator.py` and pressing Enter.
+
+4. Follow the prompts to specify the length of the password and which types of characters to include.
+
+5. The script will generate a random password based on your specifications.
+
+## License
+
+This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE) file for details.
+
