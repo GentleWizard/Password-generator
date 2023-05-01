@@ -1,4 +1,8 @@
-# Password Generator
+<h1 align="center">Password Generator</h1>
+
+<p align="center">
+  <b>Python script that creates a password based on your inputs</b>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.6%20%7C%203.7-blue" alt="Python version" />
@@ -25,6 +29,8 @@ To use this script, follow these steps:
 4. Follow the prompts to specify the length of the password and which types of characters to include.
 
 5. The script will generate a random password based on your specifications.
+
+Alternatively, you can simply launch the password_generator.py file and follow the prompts from the command line.
 
 ## License
 
